@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+tensorflow 
+pytorch
+alpha_vantage
+alpaca-trade-api
+python-dotenv
